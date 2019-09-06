@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#660066</color>
+    <color name="colorPrimaryDark">#f03e003e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="konekocolor">#660066</color>
+    <color name="konekocolor2">#6f660066</color>
+    <color name="konekocolor3">#5fffffff</color>
+    <color name="konekocolor4">#520052</color>
+    <color name="white">#FFF</color>
+    <color name="white2">#7fffffff</color>
+    <color name="gray">#ebebeb</color>
+    <color name="red">#FF0000</color>
+    <color name="pink">#fdeded</color>
+    <color name="tbgray">#cccccc</color>
+    <color name="darkgray">#6f000000</color>
+    <color name="select1">#1f660066</color>
+    <color name="select2">#2f660066</color>
+    <color name="timetable1">#f6f6f6</color>
+    <color name="timetable2">#e2e2e2</color>
+    <color name="timetable3">#FDEDED</color>
+    <color name="transparent">#00000000</color>
+</resources>

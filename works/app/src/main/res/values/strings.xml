@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SMART KONECO</string>
+    <string name="infoButton">設定</string>
+    <string name="title_timetable">時間割</string>
+    <string name="title_record">成績表</string>
+    <string name="title_roomsearch">空き教室</string>
+    <string name="title_news">連絡事項</string>
+    <string name="komanetid">KOMAnetID</string>
+    <string name="password">パスワード</string>
+    <string name="sync">同期する</string>
+    <string name="rule">利用規約</string>
+    <string name="howto">使い方</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="sync_str1">注意１：\nすべての端末上でkonecoからログアウトされているかを必ず確認してください</string>
+    <string name="sync_str2">注意２：\n元の時間割や成績表は全て上書きしてしまいます。</string>
+    <string name="sync_str3">注意３：\n入力されたユーザー名とパスワードは、アクティベートや連絡事項の同期に関して、konecoにログインする際にのみ使用し、決してネットワークを通じて他の場所には送信しないこと(機密保持)を約束します。</string>
+    <string name="rulecontent1">Ⅰ. このアプリで利用する個人情報(ユーザーID/パスワード)はアクティベートや連絡事項の更新にのみ利用し、他に送信したり情報を悪用しないことを保証する。</string>
+    <string name="rulecontent2">Ⅱ. このアプリを使っていて起きた副次的なトラブルに関しては一切認知せず、責任は取らない。</string>
+    <string name="rulecontent3">Ⅲ. あくまで非公式アプリであり、konekoなどの仕様変更により動かなくなるおそれがあることをご理解ください。</string>
+    <string name="howtocontent1">・時間割</string>
+    <string name="howtocontent11">・時間割\n・時間割\n・時間割\n・時間割\n・時間割\n・時間割\n</string>
+    <string name="howtocontent2">・成績表</string>
+    <string name="howtocontent3">・空き教室</string>
+    <string name="howtocontent4">・連絡事項</string>
+    <string name="bikou">備考</string>
+</resources>

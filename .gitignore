@@ -1,0 +1,12 @@
+works/.gradle/
+works/.idea/
+works/gradle/
+works/build/
+works/build.gradle
+works/gradlew
+works/gradlew.bat
+works/settings.gradle
+*.iml
+
+# セキュリティ上の都合により。
+works/app/src/main/java/yoshihirof/smartkoneco/GetKonecoData.java

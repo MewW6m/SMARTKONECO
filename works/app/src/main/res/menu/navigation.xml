@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/timetable"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/title_timetable"/>
+
+    <item
+        android:id="@+id/record"
+        android:icon="@drawable/ic_agenda"
+        android:title="@string/title_record"/>
+
+    <item
+        android:id="@+id/roomsearch"
+        android:icon="@drawable/ic_room"
+        android:title="@string/title_roomsearch"/>
+
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_feed"
+        android:title="@string/title_news"/>
+
+</menu>

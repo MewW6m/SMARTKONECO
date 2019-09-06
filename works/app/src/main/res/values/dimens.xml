@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="unitcellheight">30dp</dimen>
+    <dimen name="unitcellwidth">40dp</dimen>
+    <dimen name="listheight">80dp</dimen>
+    <!--timetable-->
+    <dimen name="narrow1">10dp</dimen>
+    <dimen name="narrow2">15dp</dimen>
+    <dimen name="thead">20dp</dimen>
+    <dimen name="bikou">80dp</dimen>
+    <dimen name="smalltxt">12sp</dimen>
+    <dimen name="smalltxt2">11sp</dimen>
+    <dimen name="frame">116dp</dimen>
+
+</resources>

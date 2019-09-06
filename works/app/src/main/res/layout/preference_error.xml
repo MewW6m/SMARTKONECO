@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="件名"/>
+    <EditText
+        android:id="@+id/ekenmei"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:imeOptions="actionSend"
+        android:inputType="text"
+        android:maxLines="1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="報告内容"/>
+    <EditText
+        android:id="@+id/econtent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:imeOptions="actionSend"
+        android:maxLines="10"
+        android:minLines="5"
+        android:gravity="top"/>
+    <Button
+        android:id="@+id/senderror"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="報告"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:background="@drawable/selectbutton"/>
+</LinearLayout>

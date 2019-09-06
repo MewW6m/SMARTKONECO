@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/preference_header">
+    <Preference android:title="アクティベート"
+        android:summary="konecoから時間割と成績表を同期する" android:key="sync"/>
+    <Preference android:title="時間割管理" android:key="timetable"/>
+    <Preference android:title="成績表管理" android:key="record"/>
+    <Preference android:title="通知" android:key="nortification"/>
+    <Preference android:title="エラー報告" android:key="error"/>
+    <Preference android:title="利用規約/注意" android:key="rule"/>
+    <Preference android:title="更新情報" android:key="update"/>
+</PreferenceScreen>

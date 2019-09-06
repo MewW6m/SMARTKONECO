@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="通知">
+        <SwitchPreference
+            android:title="授業10分前通知"
+            android:summaryOff="OFF"
+            android:summaryOn="ON"/>
+        <SwitchPreference
+            android:title="休講通知"
+            android:summaryOff="OFF"
+            android:summaryOn="ON"/>
+</PreferenceScreen>
